@@ -1,7 +1,7 @@
 
 # Adoptera ett husdjur 
 
-# Project Name
+
 
 Adopetera Ett husdjur är ett projekt där Flask används för att skapa en simpel webbplats för djursadoption
 där flera/olika navigeringsvägar används.
