@@ -14,9 +14,9 @@ Adopetera Ett husdjur är ett  projekt som använder Flask för att skapa en eng
 
 ## Projektinformation
 
-Kursens namn: Webbserverprogrammering 1
-Period: Andra år Elev
-Skola: NTI Gymnasiet Örebro
+- Kursens namn: Webbserverprogrammering 1
+- Period: Andra år Elev
+- Skola: NTI Gymnasiet Örebro
 
 ## Projektscenario
 
