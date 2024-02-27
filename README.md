@@ -38,9 +38,17 @@ Genom att följa stegen i projektet lär sig användaren att skapa en grundlägg
 
 ## Demonstrerade Koncept
 
+
+
 - Flask
 - Python
 - Webbutveckling
+- URL-routing med Flask
+- Dekoratorer i Python (särskilt @app.route() i Flask)
+- Dynamisk generering av HTML-innehåll
+- Användning av URL-parametrar för att dynamiskt anpassa innehållet på webbsidor
+- Integrering av Python-kod med HTML-mallar för att skapa dynamiska webbsidor
+- Hantering av användarinteraktion genom länkar och URL:er
 
 ## Instruktioner för Installation och Körning
 
