@@ -49,10 +49,19 @@ Genom att följa stegen i projektet lär sig användaren att skapa en grundlägg
 - Integrering av Python-kod med HTML-mallar för att skapa dynamiska webbsidor
 - Hantering av användarinteraktion genom länkar och URL:er
 
-## Instruktioner för Installation och Körning
+## Installationsinstruktioner
+För att installera och köra detta projekt, följ dessa steg:
 
-1. Clone the repository.
-2. Install the required dependencies using the following command:
+Klona detta repo till din lokala maskin med git clone https://github.com/Lowis0328/Projekt-Adoptera-ett-husdjur.git.
 
-    ```bash
-    pip install -r requirements.txt
+Navigera till projektets rotkatalog med cd <project-directory>.
+
+Skapa en virtuell miljö med python3 -m venv env.
+
+Aktivera den virtuella miljön med source env/bin/activate (för Linux/Mac) eller .\env\Scripts\activate (för Windows).
+
+Installera de nödvändiga paketen med pip install flask.
+
+Starta servern med flask run.
+
+Öppna en webbläsare och gå till http://localhost:5000 för att se applikationen.
