@@ -67,3 +67,5 @@ För att installera och köra detta projekt, följ dessa steg:
 - Öppna en webbläsare och gå till http://localhost:5000 för att se applikationen.
 
 ## bidragare
+- Lowe
+- Adam
