@@ -65,3 +65,5 @@ För att installera och köra detta projekt, följ dessa steg:
 - Starta servern med flask run.
 
 - Öppna en webbläsare och gå till http://localhost:5000 för att se applikationen.
+
+## bidragare
