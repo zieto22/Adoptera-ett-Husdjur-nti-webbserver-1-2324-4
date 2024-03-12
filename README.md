@@ -3,7 +3,7 @@
 
 
 
-Adopetera Ett husdjur är ett  projekt som använder Flask för att skapa en engagerande webbplats för djursadoption. Flask är ett Python-ramverk som gör det enkelt att skapa webbapplikationer genom att tillhandahålla en enkel och kraftfull sätt att skapa både enkla och komplexa webbapplikationer. I detta projekt utnyttjar vi Flask för att bygga en användarvänlig plattform där besökare kan utforska olika djurkategorier och lära sig mer om varje enskilt djur tillgängligt för adoption.
+Adopetera Ett husdjur är ett projekt inom kursen Webbserverprogrammering som använder Flask för att skapa en engagerande webbplats för djursadoption. Flask är ett Python-ramverk som gör det enkelt att skapa webbapplikationer genom att tillhandahålla en enkel och kraftfull sätt att skapa både enkla och komplexa webbapplikationer. I detta projekt utnyttjar vi Flask för att bygga en användarvänlig plattform där besökare kan utforska olika djurkategorier och lära sig mer om varje enskilt djur tillgängligt för adoption.
 
 ## Table of Contents
 
@@ -15,7 +15,7 @@ Adopetera Ett husdjur är ett  projekt som använder Flask för att skapa en eng
 ## Projektinformation
 
 - Kursens namn: Webbserverprogrammering 1
-- Period: Andra år Elev
+- Period: Andra år elev
 - Skola: NTI Gymnasiet Örebro
 
 ## Projektscenario
